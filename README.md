@@ -1,8 +1,7 @@
 # leletcp
 
 * 昵称:马佳乐:wave::wave:
-* 定位:用于本地连接tcp端口通讯并读取本地文件的插件 :round_pushpin: :round_pushpin:
-* 简介：用于和公司枪械服务端进行通信并触发不同的事件，并把数据最后传递给服务端。
+* 定位:用于本地打开UE运行程序时在哪个屏幕程序的插件 :round_pushpin: :round_pushpin:
 ## 使用方法：
 ### 一.初次使用
 1.放入项目Plugins目录中便可自动启动了
